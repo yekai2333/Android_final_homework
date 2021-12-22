@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@+id/navigation_map">
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.myapplication.ui.Map.MapFragment"
+        android:label="地图"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/navigation_weather"
+        android:name="com.example.myapplication.ui.Weather.WeatherFragment"
+        android:label="天气"
+        tools:layout="@layout/fragment_weather" />
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.example.myapplication.ui.History.HistoryFragment"
+        android:label="历史"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.example.myapplication.ui.Setting.SettingFragment"
+        android:label="设置"
+        tools:layout="@layout/fragment_setting" />
+
+    <fragment
+        android:id="@+id/weather_today"
+        android:name="com.example.myapplication.ui.Weather.TodayFragment"
+        android:label="今日"
+        tools:layout="@layout/fragment_today" />
+
+    <fragment
+        android:id="@+id/weather_recommend"
+        android:name="com.example.myapplication.ui.Weather.RecommendFragment"
+        android:label="推荐"
+        tools:layout="@layout/fragment_recommend" />
+</navigation>

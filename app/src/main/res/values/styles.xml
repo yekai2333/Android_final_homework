@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    
+    <style name="menu_style" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+</resources>

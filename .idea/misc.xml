@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio/sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.1947463768115942" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/drawable/background.xml" value="0.22962962962962963" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/drawable/bottom_navigation_item_selector.xml" value="0.22962962962962963" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/drawable/edit_background.xml" value="0.15092592592592594" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/drawable/edit_background_history.xml" value="0.38229166666666664" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/activity_bnv.xml" value="0.1" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/activity_creativecenter.xml" value="0.14792299898682879" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/activity_first.xml" value="0.1" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/activity_sub.xml" value="0.1" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_Headlines.xml" value="0.20199275362318841" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_blank1.xml" value="0.296875" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_creative_center.xml" value="0.14792299898682879" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_dashboard.xml" value="0.18659420289855072" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_entertainment.xml" value="0.16666666666666666" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_h_i_s_t_o_r_y.xml" value="0.18659420289855072" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_headlines.xml" value="0.1" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_history.xml" value="0.3333333333333333" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_home.xml" value="0.14792299898682879" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_m_a_p.xml" value="0.18659420289855072" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_map.xml" value="0.33" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_map_module.xml" value="0.20380434782608695" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_my.xml" value="0.3333333333333333" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_notifications.xml" value="0.18659420289855072" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_recommend.xml" value="0.24547101449275363" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_register.xml" value="0.23278985507246377" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_setting_moudle.xml" value="0.20380434782608695" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_sports.xml" value="0.20199275362318841" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_submit.xml" value="0.22418478260869565" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_tabs.xml" value="0.16197916666666667" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_title.xml" value="0.22418478260869565" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_today.xml" value="0.33" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_video.xml" value="0.22418478260869565" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/fragment_weather.xml" value="0.3333333333333333" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/item_history.xml" value="0.33" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/item_weather.xml" value="0.23143115942028986" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/list_item.xml" value="0.1956521739130435" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/login_main.xml" value="0.14792299898682879" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/main_activity.xml" value="0.16666666666666666" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/main_login.xml" value="0.33" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/my_menu.xml" value="0.14463019250253292" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/tablayoutbnv_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/layout/title_map.xml" value="0.19746376811594202" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/btm_menu.xml" value="0.18307692307692308" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/item_weather.xml" value="0.2875" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/main_bottom_navigation.xml" value="0.2994791666666667" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/main_bottom_weatherfirst.xml" value="0.16510416666666666" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/menu_main.xml" value="0.2994791666666667" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/my_menu.xml" value="0.2994871794871795" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/menu/overflow_menu.xml" value="0.3104166666666667" />
+        <entry key="..\:/STUDY/E/HZNU/Junior_ Semester_First/Android/project/final/app/src/main/res/xml/network_security_config.xml" value="0.22146739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
